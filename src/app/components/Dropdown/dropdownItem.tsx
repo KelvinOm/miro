@@ -18,6 +18,8 @@ interface IDropdownItemProps {
   disabled?: boolean;
   // Hides the DropdownItem
   hidden?: boolean;
+  // Used for specifies the tab order of an element
+  tabIndex?: number;
   // Callback fired when the DropdownItem is clicked
   onClick?: () => void;
   // Callback fired when the disabled DropdownItem is clicked

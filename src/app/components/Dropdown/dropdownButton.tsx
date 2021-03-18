@@ -8,6 +8,8 @@ export interface IDropdownButtonProps {
   disabled?: boolean;
   // Makes the DropdownButton focused
   autoFocus?: boolean;
+  // Used for specifies the tab order of an element
+  tabIndex?: number;
   // Callback fired when the DropdownButton is clicked
   onClick?: () => void;
   // Callback fired when the disabled DropdownButton is clicked
