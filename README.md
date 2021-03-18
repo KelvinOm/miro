@@ -94,12 +94,12 @@ Can handle events in the disabled state.
 
 ## Dropdown Keyboard navigation
 
-| Key                           | Description                                                                                               |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Tab                           | Used for a move through the triggers and DropdownItem. TabIndex defines the order of keyboard navigation. |
-| Up Arrow (not implemented)    | Moves up through the DropdownItem.                                                                        |
-| Down Arrow (not implemented)  | Moves down through the DropdownItem.                                                                      |
-| Right Arrow (not implemented) | Expands subDropdowns if isOpenOnHover is false on DropdownItem.                                           |
-| Left Arrow (not implemented)  | Collapses subDropdowns if isOpenOnHover is false on DropdownItem.                                         |
-| Enter or Space                | Collapse/Expand that Dropdown when focus on the trigger. Fired action when focus on DropdownItem.         |
-| Esc (not implemented)         | Collapses opened Dropdown.                                                                                |
+| Key                               | Description                                                                                               |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Tab**                           | Used for a move through the triggers and DropdownItem. TabIndex defines the order of keyboard navigation. |
+| **Up Arrow** (not implemented)    | Moves up through the DropdownItem.                                                                        |
+| **Down Arrow** (not implemented)  | Moves down through the DropdownItem.                                                                      |
+| **Right Arrow** (not implemented) | Expands subDropdowns if isOpenOnHover is false on DropdownItem.                                           |
+| **Left Arrow** (not implemented)  | Collapses subDropdowns if isOpenOnHover is false on DropdownItem.                                         |
+| **Enter** or **Space**            | Collapse/Expand that Dropdown when focus on the trigger. Fired action when focus on DropdownItem.         |
+| **Esc** (not implemented)         | Collapses opened Dropdown.                                                                                |
