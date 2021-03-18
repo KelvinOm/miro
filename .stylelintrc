@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "stylelint-config-styled-components",
+    "stylelint-config-recommended"
+  ],
+  "plugins": [
+    "stylelint-scss"
+  ]
+}

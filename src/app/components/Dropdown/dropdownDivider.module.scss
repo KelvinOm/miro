@@ -1,0 +1,20 @@
+.divider {
+  border-top: 1px solid #ccc;
+  margin: 8px 0;
+}
+
+.title {
+  color: #182026;
+  font-weight: 600;
+  font-size: 14px;
+  margin: 8px 0 2px 0;
+
+  &:not(:first-of-type) {
+    padding-top: 8px;
+    border-top: 1px solid #ccc;
+  }
+
+  &:first-of-type {
+    margin-top: 0;
+  }
+}
