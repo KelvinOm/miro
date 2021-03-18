@@ -15,7 +15,7 @@ export function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route exact path="/" component={HomePage} />
+        <Route exact path="/miro/build/" component={HomePage} />
       </Switch>
       <GlobalStyle />
     </BrowserRouter>

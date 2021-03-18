@@ -1,3 +1,7 @@
+## Demo
+
+View usage examples on the [demo page](https://kelvinom.github.io/miro/build/)
+
 ## Quick start
 
 ⚠️ Using [Yarn Package Manager](https://yarnpkg.com) is recommended over `npm`.

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/miro/build/static/css/main.45ce1f95.chunk.css",
-    "main.js": "/miro/build/static/js/main.cd18ba7a.chunk.js",
+    "main.js": "/miro/build/static/js/main.655bee07.chunk.js",
     "runtime-main.js": "/miro/build/static/js/runtime-main.f3a866ab.js",
     "static/css/2.e6924ae7.chunk.css": "/miro/build/static/css/2.e6924ae7.chunk.css",
     "static/js/2.d90cb1a3.chunk.js": "/miro/build/static/js/2.d90cb1a3.chunk.js",
@@ -13,6 +13,6 @@
     "static/css/2.e6924ae7.chunk.css",
     "static/js/2.d90cb1a3.chunk.js",
     "static/css/main.45ce1f95.chunk.css",
-    "static/js/main.cd18ba7a.chunk.js"
+    "static/js/main.655bee07.chunk.js"
   ]
 }
