@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.45ce1f95.chunk.css",
-    "main.js": "/static/js/main.be5f81c6.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.2fc5322c.js",
-    "static/css/2.e6924ae7.chunk.css": "/static/css/2.e6924ae7.chunk.css",
-    "static/js/2.a2a46381.chunk.js": "/static/js/2.a2a46381.chunk.js",
-    "index.html": "/index.html",
-    "static/js/2.a2a46381.chunk.js.LICENSE.txt": "/static/js/2.a2a46381.chunk.js.LICENSE.txt"
+    "main.css": "/miro/build/static/css/main.45ce1f95.chunk.css",
+    "main.js": "/miro/build/static/js/main.cd18ba7a.chunk.js",
+    "runtime-main.js": "/miro/build/static/js/runtime-main.f3a866ab.js",
+    "static/css/2.e6924ae7.chunk.css": "/miro/build/static/css/2.e6924ae7.chunk.css",
+    "static/js/2.d90cb1a3.chunk.js": "/miro/build/static/js/2.d90cb1a3.chunk.js",
+    "index.html": "/miro/build/index.html",
+    "static/js/2.d90cb1a3.chunk.js.LICENSE.txt": "/miro/build/static/js/2.d90cb1a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2fc5322c.js",
+    "static/js/runtime-main.f3a866ab.js",
     "static/css/2.e6924ae7.chunk.css",
-    "static/js/2.a2a46381.chunk.js",
+    "static/js/2.d90cb1a3.chunk.js",
     "static/css/main.45ce1f95.chunk.css",
-    "static/js/main.be5f81c6.chunk.js"
+    "static/js/main.cd18ba7a.chunk.js"
   ]
 }

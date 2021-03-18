@@ -2,6 +2,7 @@
   "name": "dropdown-menu-design",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/miro/build/",
   "dependencies": {
     "@popperjs/core": "2.9.1",
     "@types/fontfaceobserver": "0.0.6",
