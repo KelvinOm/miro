@@ -9,12 +9,12 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    padding: 30px;
   }
 
   #root {
     min-height: 100%;
     min-width: 100%;
+    padding: 30px;
   }
 
   p,
