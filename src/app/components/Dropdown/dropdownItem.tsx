@@ -8,9 +8,9 @@ interface IDropdownItemProps {
   text?: string;
   // Content that will be rendered inside DropdownItem. Should typically be
   // DropdownItem or DropdownDivider, or checkbox / radio variants of those
-  // If the DropdownItem is used as a child it will be created submenu
+  // If the DropdownItem is used as a child it will be created subDropdown
   children?: ReactNode;
-  // Allows the DropdownItem to open when hovered on the trigger. Used when the DropdownItem is submenu
+  // Allows the DropdownItem to open when hovered on the trigger. Used when the DropdownItem is subDropdown
   isOpenOnHover?: boolean;
   // Will focus to the DropdownItem
   autoFocus?: boolean;

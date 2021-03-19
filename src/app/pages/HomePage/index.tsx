@@ -134,7 +134,7 @@ export class HomePage extends React.PureComponent {
           {this.disabledTriggerExample}
         </SyntaxHighlighter>
 
-        <h1>Сustom trigger</h1>
+        <h1>Custom trigger</h1>
         <Dropdown trigger={this.customTrigger}>
           <DropdownItem text="Action" />
           <DropdownItem text="Other action" />
@@ -173,7 +173,7 @@ export class HomePage extends React.PureComponent {
           {this.itemOptionsExample}
         </SyntaxHighlighter>
 
-        <h1>Сustom items</h1>
+        <h1>Custom items</h1>
 
         <Dropdown>
           <DropdownItem>
